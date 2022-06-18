@@ -5,3 +5,5 @@ Goal:
 - Implement end-to-end encryption on a server
 - Figure out logistics 
 - Possibly combat partially/unencrypted data
+
+Implements private/public key encryption and allows link sharing of files.
